@@ -11,11 +11,11 @@ Even so, as with any community, conflict will eventually happen. Among our open 
 This document will seek discuss this relationship between wow emulation projects, their contributors, private servers and repacks. It will then go on to explain the situation with the AzerothCore emulator, the recent issues that have arisen, and finally how I believe those issues can be solved or mitigated.
 
 The structure is as follows:
-- **A brief explanation of how licensing works in open source projects, for those completely new to the subject**
-- **A very brief explanation of the licenses commonly used in this scene**
-- **An explanation of the problems that have arisen around AzerothCore**
-- **An extensive list of potential solutions to these problems.**
-- **An appeal to respecting licenses beyond their purely legal implications**
+- A brief explanation of how licensing works in open source projects, for those completely new to the subject
+- A very brief explanation of the licenses commonly used in this scene
+- An explanation of the problems that have arisen around AzerothCore
+- An extensive list of potential solutions to these problems.
+- An appeal to respecting licenses beyond their purely legal implications
 
 For the initial sections, I will attempt to be as impartial as I can, while later sections will include more of my personal opinions and thoughts on the topic.
 
@@ -70,15 +70,15 @@ I take no responsibility for the implementation of solutions presented here. Aze
 
 I know most people don't care much for license blabber, and I'm not coming to preach why anyone should. I only seek to ensure this information is available for those who **are** interested in the topic. In short, my aims here are:
 
-- **That any contributor, regardless of experience, can know the history of this scene, the projects that were involved and how those projects operated.**
+- That any contributor, regardless of experience, can know the history of this scene, the projects that were involved and how those projects operated.
 
-- **That any contributor, regardless of experience, understand what happens when they submit code to a public project.**
+- That any contributor, regardless of experience, understand what happens when they submit code to a public project.
 
-- **That any contributor, regardless of experience, understands the implications of what license they attach to the code they publish.**
+- That any contributor, regardless of experience, understands the implications of what license they attach to the code they publish.
 
-- **To make the case for taking licenses seriously for those of us who value what they've inspired.**
+- To make the case for taking licenses seriously for those of us who value what they've inspired.
 
-- **To illustrate what can go wrong if we stay on our current trajectories.**
+- To illustrate what can go wrong if we stay on our current trajectories.
 
 None of this will be possible to achieve fully with a single document like this, and for the sake of scope I will focus on licensing as it relates to the MaNGOS trees.
 
@@ -204,11 +204,11 @@ First, it is important to note that I do not wish to paint this as assuming mali
 
 There are three separate issues that I've raised with the project, and I will reiterate them briefly here before moving on to solutions. I will divide this sections into categories:
 
-- **Happenings. As in, the things that happened and their immediate effects or contradictions.**
+- Happenings. As in, the things that happened and their immediate effects or contradictions.
 
-- **Problems. As in, problems with those happenings and what damage they cause or might cause in the future.**
+- Problems. As in, problems with those happenings and what damage they cause or might cause in the future.
 
-- **Solutions. As in, what azerothcore can do to improve the situation.**
+- Solutions. As in, what azerothcore can do to improve the situation.
 
 The reason for this separation is that some problems arise from multiple happenings (and other problems!), and some solutions overlap with multiple problems. At the end, I'll include the solution to the MySQL puzzle I left you with on the tracker.
 
