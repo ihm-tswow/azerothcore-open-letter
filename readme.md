@@ -57,7 +57,7 @@ I take no responsibility for the implementation of solutions presented here. Aze
         * [Problem 3: Muddying the Waters](#problem-3-p3-muddying-the-waters)
         * [Problem 4: Weapons of Mass Destruction](#problem-4-p4-weapons-of-mass-destruction)
     * [Solutions](#solution-1-s1-stop-calling-mangostrinitycore-private-servers-thieves)
-        * [Solution 1: Stop calling MaNGOS/TrinityCore servers thieves](#solution-1-s1-stop-calling-mangostrinitycore-private-servers-thieves)
+        * [Solution 1: Stop suggesting MaNGOS/TrinityCore servers are thieves](#solution-1-s1-stop-suggesting-mangostrinitycore-private-servers-are-thieves)
         * [Solution 2: AGPL Reversal](#solution-2-s2-agpl-reversal)
             * [Why the old solution doesn't work](#why-the-old-solution-doesnt-work)
             * [My Proposal: Stage 1 (Disarmament)](#my-proposal-stage-1-disarmament)
@@ -425,14 +425,14 @@ My reason bothering with this before such a thing has even happened is that I've
   <i>Image courtesy of Project Epoch, a custom wow project.</i>
 </p>
 
-## Solution 1 (S1): Stop calling MaNGOS/TrinityCore private servers thieves 
+## Solution 1 (S1): Stop suggesting MaNGOS/TrinityCore private servers are thieves 
 
 As individual contributors to any of those projects, you are fully entitled to your own feelings towards private servers regardless of the license you sign. What you are not entitled to is speaking as if those servers breached or disrespected the licenses of these projects, or decide for other contributors in the scene whether they have been wronged, or even what the _spirit of open source_ means to them.
 
-Understand that the AGPL has been a well-known option for every other MaNGOS project since at least 2008 when they became commonplace in the Antrix/Ascent world, but that we for various reasons **chose** not to adopt it. One of those reasons is that TrinityCore in particular has received large quantities of patches directly from servers that still kept parts of their core closed, and receive crucial fixes from otherwise largely closed-source servers like Ascension to this day.
+Understand that the AGPL has been a well-known option for every other MaNGOS project since at least 2008 when they became commonplace in the Antrix/Ascent world, but that we for various reasons **chose** not to adopt it. One of those reasons is that TrinityCore in particular has received large quantities of patches directly from servers that still kept parts of their core closed, and receive crucial fixes from otherwise largely closed-source servers to this day.
 
 **In summary:**
-- **Don't say that private servers "steal" source code from MaNGOS/TrinityCore.**
+- **Don't suggest that private servers wrongfully use source code from MaNGOS/TrinityCore.**
 
 - **When talking about licenses, be clear that it is _your_ project that uses the AGPL, not MaNGOS/TrinityCore.**
 
