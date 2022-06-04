@@ -1,6 +1,6 @@
 # An open letter to AzerothCore
 
-- **tldr: ctrl+f for "summary", each section has a very short summary explaining the most important points**
+- **tldr: ctrl+f for "summary", each section has a very short list explaining the most important points**
 
 - **If anything here is wrong, make an issue or contact me on discord.**
 
