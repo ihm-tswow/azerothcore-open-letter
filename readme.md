@@ -1,10 +1,12 @@
-## Introduction
+# An open letter to AzerothCore
 
 The WoW emulation and modding scenes are nearing their 18th birthdays, in a time of both great uncertainty and excitement for our shared community. While Blizzards classic realms continue to gut the blizzlike servers that have been a staple of our scene since its inception, the increased availability of authoritative data about the game has opened the door to more accurate emulation of the older expansions than ever before. Additionally, the rapid development of powerful modding tools over just the past couple of years are starting to show just how far the game can be pushed both as a technical and an artistic medium.
 
 It is my assumption that we all share this space out of love for the game and virtual world many of us grew up with, and in each our own way seek to restore or reinterpret the impressions it has left us with. It is also my belief that the vast majority of actors in this scene, contrary to the belief of many players, largely seeks to co-exist honestly and in peace with one another.
 
 Even so, as with any community, conflict will eventually happen. Among our open source emulators, there are many disagreements on the best way to run a project, collect patches and the rules to hold users of those projects to. Lately, one such disagreement has cropped up in regards to recent comments by and changes to the AzerothCore emulator.
+
+## Structure
 
 This document will seek discuss this relationship between wow emulation projects, their contributors, private servers and repacks. It will then go on to explain the situation with the AzerothCore emulator, the recent issues that have arisen, and finally how I believe those issues can be solved or mitigated.
 
