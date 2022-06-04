@@ -86,7 +86,7 @@ I know most people don't care much for license blabber, and I'm not coming to pr
 
 None of this will be possible to achieve fully with a single document like this, and for the sake of scope I will focus on licensing as it relates to the MaNGOS trees.
 
-Read only parts you find interesting here, and maybe you'll find there are things you didn't know you agreed with. I know that the language is something thick, but I have attempted to end every section with a short summary of the most important points.
+Read only parts you find interesting here, and maybe you'll find there are things you didn't know you agreed with. I know that the language is something thick, but I have attempted to summarize every section with the most important points.
 
 ## Licensing
 
