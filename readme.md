@@ -1,6 +1,8 @@
 # An open letter to AzerothCore
 
-**tldr/in a hurry: ctrl+f for "summary", each section has a very short summary explaining the most important points**
+- **tldr/in a hurry: ctrl+f for "summary", each section has a very short summary explaining the most important points**
+
+- **If anything here is wrong, make an issue or contact me on discord.**
 
 The WoW emulation and modding scenes are nearing their 18th birthdays, in a time of both great uncertainty and excitement for our shared community. While Blizzards classic realms continue to gut the blizzlike servers that have been a staple of our scene since its inception, the increased availability of authoritative data about the game has opened the door to more accurate emulation of the older expansions than ever before. Additionally, the rapid development of powerful modding tools over just the past couple of years are starting to show just how far the game can be pushed both as a technical and an artistic medium.
 
