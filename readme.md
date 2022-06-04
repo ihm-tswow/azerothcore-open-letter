@@ -1,5 +1,7 @@
 # An open letter to AzerothCore
 
+**tldr/in a hurry: ctrl+f for "summary", each section has a very short summary explaining the most important points**
+
 The WoW emulation and modding scenes are nearing their 18th birthdays, in a time of both great uncertainty and excitement for our shared community. While Blizzards classic realms continue to gut the blizzlike servers that have been a staple of our scene since its inception, the increased availability of authoritative data about the game has opened the door to more accurate emulation of the older expansions than ever before. Additionally, the rapid development of powerful modding tools over just the past couple of years are starting to show just how far the game can be pushed both as a technical and an artistic medium.
 
 It is my assumption that we all share this space out of love for the game and virtual world many of us grew up with, and in each our own way seek to restore or reinterpret the impressions it has left us with. It is also my belief that the vast majority of actors in this scene, contrary to the belief of many players, largely seeks to co-exist honestly and in peace with one another.
@@ -110,7 +112,7 @@ The project is not allowed to change the license of your patches without your pe
 
 After you've created a patch with one license, there is nothing stopping you from **re-licensing your own patches** under any combination of other licenses, even if those licenses are incompatible with your original license, and impossible to use in combination of the larger file you edited. In the case of editing existing code, you can of course not just change something about it and use that to re-license the entire thing.
 
-**In Summary:**
+**In summary:**
 - **When you publish patches to an open source project, you do not relinquish ownership of your code. You can license your code under multiple open source licenses, even after the fact.**
 
 - **When you publish patches to a file with a license header, you effectively release your patches to be used under that license.**
@@ -157,7 +159,7 @@ The GPLv2 and the AGPL are technically incompatible, meaning that you cannot use
 
 This means that azerothcore, as far as MaNGOS or TrinityCore are concerned, are allowed to place AGPL-licensed files in their project, and effectively turning the entirety of their program into one that should follow the AGPL, not just the GPLv2.
 
-**In Summary:**
+**In summary:**
 
 - **MIT is one of the most permissive licenses, and can usually be combined with almost any other license in one project.**
 
@@ -185,7 +187,7 @@ However, as the internet became increasingly important for how programs worked i
 
 The FSF largely considers such remote services a **loophole** of the GPLv2. However, not everyone that uses the GPLv2 agrees with this. Probably the most famoust GPL-licensed project of all time, the linux kernel, explicitly **disallows** their code to be used with anything other than GPLv2, because they don't agree that this is a loophole, but exactly what they intended by applying the original license. Rather, to them, the "loophole" is that the FSF introduced phrasing such as "or any later version" to arbitrarily change the terms that GPL code can operate on, and then using such phrasings in their default recommended license headers. This can very easily end up in the situation where forks of a project enacts a stricter version of the GPL and blocking out even the original project from merging their patches without upgrading themselves, potentially undermining what some would consider the purpose of the license in the first place.
 
-**In Summary:**
+**In summary:**
 - **The FSF created the GPL licenses with the purpose of creating software that respects users freedom, and legally block other software that don't do this from benefiting from their work.**
 
 - **When more and more programs started executed on servers rather than client machines in the early 2000s, the FSF introduced the AGPL to include servers.**
@@ -230,7 +232,7 @@ The immediate result is that other cores can no longer use commits to these file
 
 It has come to my attention that AzerothCore leadership occasionally offers "special excemptions" to the AGPL regarding servers "custom content". The reasoning behind AzerothCores license is described as "wanting blizzlike/system/performance patches back". However, there is nothing in the AGPL itself that supports this kind of excemption.
 
-**In Summary:**
+**In summary:**
 - **AzerothCore has attempted to grant "excemptions" to the AGPL for custom features.**
 
 - **The AGPL cannot express such excemptions.**
@@ -245,7 +247,7 @@ The video contains language that strongly suggest that private server owners fre
 
 I raised these concerns with Shin directly one year ago, thinking we had come to an agreement that the video was misleading, yet I now see the exact same video has been re-published on the ChromieCraft youtube channel just two months ago seemingly unedited from last time.
 
-**In Summary:**
+**In summary:**
 - **AzerothCore has on multiple occasions published a video that makes strong claims suggesting private servers breach or otherwise wrong the licenses of MaNGOS and TrinityCore.**
 
 - **Both MaNGOS and TrinityCore continue to publish under the GPLv2-or-later license, which permits private servers to use it without giving source code back.**
@@ -271,7 +273,7 @@ Similarly, while AzerothCores current leadership might not have any malicious in
 
 While such statements might be considered as a true extension of the license for those who make those statements at the time they make them, they still only speak for themselves and their contributions, they cannot speak for anyone else or future contributors who build upon their work, since they also license it under the AGPL when they push.
 
-**In Summary:**
+**In summary:**
 - **The only expressed license for AzerothCore is the AGPL (previously also GPLv2-or-later)**
 
 - **The AGPL makes no excemptions for the type of content the code implements.**
@@ -361,7 +363,7 @@ a donation [https://www.fsf.org/donate].
 
 The first part of the response points out that I used the word "compatible" incorrectly, but clarifies the crucial distinction between "re-licensing" and the kind of "upgrade" that the "or-later" clauses permits in the GPL licenses. This means the kind of re-licensing AzerothCore has done is not sanctioned by the FSF to change the GPLv2-or-later license headers in MaNGOS/TrinityCore files.
 
-**In Summary:**
+**In summary:**
 - **When I emailed the FSF and asked, the response was that it was not possible to replace license headers in GPLv2-or-later files to the AGPL.**
 - **The response received was not from a lawyer, and was purposefully specific to the exact upgrade AzerothCore had attempted.**
 
@@ -373,7 +375,7 @@ AzerothCore is largely outshining other cores in terms of presence in social med
 
 I personally believe firmly this is not yet a malicious or even conscious attempt on AzerothCores part at undermining other cores or their licenses, but the effect on the larger emulation community remains: you sow the seeds of mistrust that could potentially end up causing conflicts and resentment in the future.
 
-**In Summary:**
+**In summary:**
 - **Repeatedly publishing videos that misrepresent history is disrespectful to the cores and contributors who worked on those projects and may disagree with you.**
 
 - **Aggressively extending the application of AGPL in ways you don't comprehend while doing the above, is sowing the seeds of conflict not just in your own project, but with other projects as well.**
@@ -408,7 +410,7 @@ Skepticism that such a thing could or would ever happen is understandable, and i
 
 My reason bothering with this before such a thing has even happened is that I've seen how fast it could [tear communities apart before](https://blog.jwf.io/2020/04/open-source-minecraft-bukkit-gpl/).
 
-**In Summary:**
+**In summary:**
 - **Strictly re-licensing old MaNGOS/TrinityCore files introduces extreme uncertainty on when one project might be considered "stealing" from the other.**
 
 - **Any excemption you grant to custom servers can only be temporary, and only on your individual contributions.**
@@ -427,7 +429,7 @@ As individual contributors to any of those projects, you are fully entitled to y
 
 Understand that the AGPL has been a well-known option for every other MaNGOS project since at least 2008 when they became commonplace in the Antrix/Ascent world, but that we for various reasons **chose** not to adopt it. One of those reasons is that TrinityCore in particular has received large quantities of patches directly from servers that still kept parts of their core closed, and receive crucial fixes from otherwise largely closed-source servers like Ascension to this day.
 
-**In Summary:**
+**In summary:**
 - **Don't say that private servers "steal" source code from MaNGOS/TrinityCore.**
 
 - **When talking about licenses, be clear that it is _your_ project that uses the AGPL, not MaNGOS/TrinityCore.**
@@ -530,7 +532,7 @@ Depending on your answer to previous question, you will probably want to figure 
 
 I will discuss my approach to this in the final sections of this document, but I do not assume that you will share my view on this. Alternatives can include things such as support bans, naming and shaming (or the opposite, showcasing servers that contribute), more active advertisement, or leaving part of the AGPL still in your program.
 
-**In Summary:**
+**In summary:**
 - **As a first step, you can _disarm_ the AGPL by changing the default license for future contributions to such files by clearly specifying that **new additions** fall under GPLv2-or-later, not the AGPL.**
 
 - **Secondly, you can _disassemble_ the AGPL chunks by collecting as many permissions to revert them to GPLv2-or-later as you can, until either a great deal of chunks are no longer AGPL in isolation, or where the entire file no longer contain AGPL/wrongfully licensed chunks at all and can remove the special disclaimer.**
@@ -547,7 +549,7 @@ If you want to give custom projects as much leeway to use your code in good-will
 
 However, if you choose not to do this, you will need to be honest with your custom projects what this actually means for them, and be careful to only speak for yourselves, whether individually or collective as maintainers, and the current code that you publish if you want to give them any "excemptions".
 
-**In Summary:**
+**In summary:**
 - **If you want to give servers unrestricted use of your code for custom features, you need to remove as much of the AGPL as possible and stop further contributions under it, see the previous solution (S2).**
 
 - **If you want to keep AGPL in your repository, you need to be honest and clear to custom projects what this means, and what guarantees you can actually give them.**
@@ -608,7 +610,7 @@ If we can do this, even when we disagree and have to go our separate ways, we ca
 
 Nobody is perfect, and there have been countless of wrongdoings in this community by every entity, including MaNGOS, TrinityCore, AzerothCore and myself. Even so, if we at least try to show the world that wow emulation and modding isn't only composed of people choosing to act at their most self-serving at all times, we might just find that there are more people inspired to join us in that endeavor.
 
-**In Summary:**
+**In summary:**
 - **The WoW emulation community does not thrive from our licenses themselves, but the goodwill among contributors they have inspired.**
 
 - **This distinction does not mean we should be careless with the way we treat those licenses, but the complete opposite.**
