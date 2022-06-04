@@ -570,6 +570,9 @@ I make this a special section because it is not actually much of a real problem,
 
 The solution is simple: MariaDB is GPLv2-or-later, as they forked MySQL before they changed their license to GPLv2-only. Simply use MariaDB and you have no contradiction with an AGPL license in the rest of the files. If users continue to use MySQL for their convenience, that's to their discretion and does not change their relationship or obligations towards you.
 
+**In summary:**
+- MySQL is incompatible with the AGPL, but MariaDB isn't.
+
 <p align="center"> 
   <img src="./img/mariadb.jpg"> 
   </br>
